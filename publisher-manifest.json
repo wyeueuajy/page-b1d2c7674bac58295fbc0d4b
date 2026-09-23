@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "9eafc5c27cb6a9703752343d",
+  "owner": "wyeueuajy",
+  "repo": "page-b1d2c7674bac58295fbc0d4b",
+  "title": "海的那边",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "b1d2c7674bac58295fbc0d4b",
+      "a": "海的那边",
+      "b": "机场官网线路发布页",
+      "entity": "海的那边",
+      "brand": "海的那边",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "7e091001e805cf73ce2c8c53d1fdcf87a331cd5927120a984ffcb6efcbd2b1ef",
+      "content": {
+        "primary_entity": "海的那边",
+        "keyword1": "海的那边",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择匹配客户端，再导入订阅地址，不同平台有各自的常用工具。",
+          "AI_CLIENTS_TITLE": "设备与客户端匹配",
+          "AI_CLOSING_TEXT": "根据设备数量与月流量需求选定套餐，再按客户端说明完成订阅导入。",
+          "AI_CLOSING_TITLE": "从需求出发选套餐",
+          "AI_DESCRIPTION": "，围绕设备选择与订阅配置提供实用说明，并列出基础版、旗舰版、团队版三档套餐的流量、设备数与线路差异，方便按实际用量对比。",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、3 台设备，适合手机加电脑的轻度使用；旗舰版每月 300GB、5 台设备，覆盖更多终端与流媒体需求，可按常用设备数量判断。",
+          "AI_FAQ_ANSWER_2": "旗舰版提供 IPLC 专线并针对游戏加速优化，团队版含 VIP 专属高带宽节点与定制路由，实时性要求高时优先考虑这两档。",
+          "AI_FAQ_ANSWER_3": "按年付可降低月均成本，基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，流量额度与设备数不变。",
+          "AI_FAQ_ANSWER_4": "打开所选客户端，找到订阅或配置导入入口，粘贴购买后获得的订阅地址并更新，节点列表刷新后即可选择线路。",
+          "AI_FAQ_ANSWER_5": "先在少量设备上导入订阅并测试常用线路，确认日常使用顺畅后，再按需求切换到更高档套餐。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与套餐选择。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版在设备数量上有什么区别？",
+          "AI_FAQ_QUESTION_2": "游戏加速或流媒体播放该选哪个套餐？",
+          "AI_FAQ_QUESTION_3": "按年付和按月付的差别在哪里？",
+          "AI_FAQ_QUESTION_4": "拿到订阅后怎么在客户端里导入？",
+          "AI_FAQ_QUESTION_5": "不确定用量时如何开始试用？",
+          "AI_FAQ_TITLE": "常见疑问",
+          "AI_FEATURES_INTRO": "从流量额度、设备数量与线路类型三个维度对比套餐，做出符合实际使用场景的选择。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版每月 100GB 与 3 台设备，旗舰版 300GB 与 5 台设备，团队版 1000GB 与 20 台设备。",
+          "AI_FEATURE_TEXT_2": "按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，月付分别为 ¥15、¥35、¥85。",
+          "AI_FEATURE_TEXT_3": "旗舰版含 IPLC 专线与流媒体解锁，团队版提供 VIP 高带宽节点与定制路由。",
+          "AI_FEATURE_TITLE_1": "流量与设备数",
+          "AI_FEATURE_TITLE_2": "计费周期",
+          "AI_FEATURE_TITLE_3": "线路与权益",
+          "AI_GUIDE_INTRO": "从确认需求到完成订阅配置，三步即可开始使用。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "海的那边提供基础版、旗舰版与团队版三档套餐，覆盖不同流量与设备数量需求；选好套餐后按客户端文档导入订阅，即可使用相应节点与线路。",
+          "AI_HERO_SUBTITLE": "按设备与用量选定套餐",
+          "AI_HIGHLIGHT_1": "每月 100GB 至 1000GB 流量可选",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备同时在线",
+          "AI_HIGHLIGHT_3": "月付年付灵活计费",
+          "AI_PLANS_INTRO": "基础版适合轻量使用，旗舰版平衡流量与专线需求，团队版面向多设备高带宽场景，可按流量与设备数量对号入座。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量和每月流量区间，在基础版、旗舰版、团队版之间选一档合适套餐。",
+          "AI_STEP_TEXT_2": "确认所选套餐支持的设备数量与线路类型，检查是否满足流媒体或游戏加速需求。",
+          "AI_STEP_TEXT_3": "按设备系统选用对应客户端，参照客户端文档导入订阅地址并完成配置。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TITLE_2": "确认适配要求",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "按设备选套餐"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "dmrgrgm.cn",
+    "host": "dmrgrgm.cn"
+  },
+  "file_hashes": {
+    "index.html": "002cdb29fa60ccb32d96abfdca3e7dc996727be0a99462cf334bba1ce9ddb9e6",
+    "sitemap.xml": "de74b98ca84dd7b6dcd1cb17107eef6dababa6c6da23e27dcab190def8a21af3",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "6b453c6d77431a2d22f14df939f1f7c3584ac9f41fd7866d25ec28141b3de87a",
+    "robots.txt": "8753b7aa4265721d7c9558483c8c180ba6c268b102d1fe6e81ae34416c10ae46",
+    "8eaace1983e7423bd48e117191d60492.txt": "06688624d3c392142441075a0fec85a5088a238853d92c249851dbe0f3049b78"
+  },
+  "revision": "db5e16a984fbef5024f9bbf3f3943092818a742a732b432e9085cd578a3ae0a7"
+}
